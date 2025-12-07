@@ -32,6 +32,8 @@ Key columns:
 - Sentence
 - Alleles
 
+
+## For question 6.1 package github link:  [https://github.com/GSYH/drug_response_23andme/tree/main]
 ---
 
 ## Pipeline
