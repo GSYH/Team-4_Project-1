@@ -1,444 +1,444 @@
-GENE_SYMBOL	Num_Variants	Num_Drugs	Affected_Drugs_x	Affected_Drugs_y
-VEGFA	9	14	adalimumab;bevacizumab, capecitabine, fluorouracil, irinotecan, leucovorin, oxaliplatin;bevacizumab, irinotecan;bevacizumab, pegaptanib, ranibizumab;bevacizumab, ranibizumab;capecitabine, oxaliplatin;carboplatin, taxanes;carfilzomib, dexamethasone, lenalidomide;cetuximab;cisplatin, fluorouracil, oxaliplatin;docetaxel;pazopanib;ranibizumab;sildenafil	adalimumab;bevacizumab, capecitabine, fluorouracil, irinotecan, leucovorin, oxaliplatin;bevacizumab, irinotecan;bevacizumab, pegaptanib, ranibizumab;bevacizumab, ranibizumab;capecitabine, oxaliplatin;carboplatin, taxanes;carfilzomib, dexamethasone, lenalidomide;cetuximab;cisplatin, fluorouracil, oxaliplatin;docetaxel;pazopanib;ranibizumab;sildenafil
-COMT	8	19	bupropion;butorphanol;clozapine;entacapone;fluvoxamine;methadone;methylphenidate;modafinil;morphine;morphine, remifentanil;nicotine;opioids;oxycodone;paroxetine;quetiapine;raloxifene;remifentanil;risperidone;venlafaxine	bupropion;butorphanol;clozapine;entacapone;fluvoxamine;methadone;methylphenidate;modafinil;morphine;morphine, remifentanil;nicotine;opioids;oxycodone;paroxetine;quetiapine;raloxifene;remifentanil;risperidone;venlafaxine
-CYP3A4	8	17	alprazolam;amlodipine;apremilast;atorvastatin;buprenorphine;carbamazepine, lamotrigine, phenytoin, primidone, valproic acid;cyclophosphamide;cyclosporine;dexamethasone;diazepam;fentanyl;fluvastatin;imatinib;lumefantrine;perampanel;simvastatin;sufentanil	alprazolam;amlodipine;apremilast;atorvastatin;buprenorphine;carbamazepine, lamotrigine, phenytoin, primidone, valproic acid;cyclophosphamide;cyclosporine;dexamethasone;diazepam;fentanyl;fluvastatin;imatinib;lumefantrine;perampanel;simvastatin;sufentanil
-DRD2	8	14	amisulpride;antipsychotics;aripiprazole;aripiprazole, risperidone;bupropion;chlorpromazine;clozapine;haloperidol, olanzapine, perphenazine, quetiapine, risperidone;lithium, olanzapine;nicotine;olanzapine;prochlorperazine;rasagiline;risperidone	amisulpride;antipsychotics;aripiprazole;aripiprazole, risperidone;bupropion;chlorpromazine;clozapine;haloperidol, olanzapine, perphenazine, quetiapine, risperidone;lithium, olanzapine;nicotine;olanzapine;prochlorperazine;rasagiline;risperidone
-IFNL3	8	12	"""interferon alfa-2a, recombinant"", ""interferon alfa-2b, recombinant"", ""ribavirin"";daclatasvir, sofosbuvir;interferon alfa-n1, peginterferon alfa-2b, ribavirin;interferons, ribavirin;peginterferon alfa-2a, peginterferon alfa-2b;peginterferon alfa-2a, peginterferon alfa-2b, ribavirin;peginterferon alfa-2a, peginterferon alfa-2b, ribavirin, simeprevir;peginterferon alfa-2a, peginterferon alfa-2b, ribavirin, telaprevir;peginterferon alfa-2a, ribavirin;peginterferon alfa-2b;peginterferon alfa-2b, ribavirin;peginterferon alfa-2b, ribavirin, telaprevir"	"""interferon alfa-2a, recombinant"", ""interferon alfa-2b, recombinant"", ""ribavirin"";daclatasvir, sofosbuvir;interferon alfa-n1, peginterferon alfa-2b, ribavirin;interferons, ribavirin;peginterferon alfa-2a, peginterferon alfa-2b;peginterferon alfa-2a, peginterferon alfa-2b, ribavirin;peginterferon alfa-2a, peginterferon alfa-2b, ribavirin, simeprevir;peginterferon alfa-2a, peginterferon alfa-2b, ribavirin, telaprevir;peginterferon alfa-2a, ribavirin;peginterferon alfa-2b;peginterferon alfa-2b, ribavirin;peginterferon alfa-2b, ribavirin, telaprevir"
-RRM1	8	4	carboplatin, gemcitabine;cisplatin, gemcitabine;cladribine, cytarabine;gemcitabine	carboplatin, gemcitabine;cisplatin, gemcitabine;cladribine, cytarabine;gemcitabine
-GALNT14	7	3	cisplatin, fluorouracil;cisplatin, fluorouracil, mitoxantrone;sorafenib	cisplatin, fluorouracil;cisplatin, fluorouracil, mitoxantrone;sorafenib
-BDNF	6	13	amitriptyline, clomipramine, duloxetine, imipramine, milnacipran, venlafaxine;antidepressants;antipsychotics;citalopram;citalopram, escitalopram, fluoxetine, fluvoxamine, paroxetine, sertraline;citalopram, escitalopram, fluoxetine, sertraline;empagliflozin;escitalopram, fluoxetine, paroxetine, sertraline;fluoxetine;methadone;methylphenidate;olanzapine;paroxetine	amitriptyline, clomipramine, duloxetine, imipramine, milnacipran, venlafaxine;antidepressants;antipsychotics;citalopram;citalopram, escitalopram, fluoxetine, fluvoxamine, paroxetine, sertraline;citalopram, escitalopram, fluoxetine, sertraline;empagliflozin;escitalopram, fluoxetine, paroxetine, sertraline;fluoxetine;methadone;methylphenidate;olanzapine;paroxetine
-SLCO1B1	6	13	atorvastatin;atorvastatin, hmg coa reductase inhibitors, pravastatin, simvastatin;capecitabine, fluorouracil, irinotecan, leucovorin;conjugated estrogens;estrone sulfate;fluvastatin;hmg coa reductase inhibitors;methotrexate;pravastatin;rocuronium;rosiglitazone;rosuvastatin;simvastatin	atorvastatin;atorvastatin, hmg coa reductase inhibitors, pravastatin, simvastatin;capecitabine, fluorouracil, irinotecan, leucovorin;conjugated estrogens;estrone sulfate;fluvastatin;hmg coa reductase inhibitors;methotrexate;pravastatin;rocuronium;rosiglitazone;rosuvastatin;simvastatin
-ABCG2	6	9	Opioid anesthetics, Other general anesthetics, volatile anesthetics;allopurinol;antineoplastic agents;hmg coa reductase inhibitors;iguratimod;imatinib;methotrexate;rosuvastatin;sulfasalazine	Opioid anesthetics, Other general anesthetics, volatile anesthetics;allopurinol;antineoplastic agents;hmg coa reductase inhibitors;iguratimod;imatinib;methotrexate;rosuvastatin;sulfasalazine
-CRHR2	6	3	citalopram;salbutamol;salbutamol, selective beta-2-adrenoreceptor agonists	citalopram;salbutamol;salbutamol, selective beta-2-adrenoreceptor agonists
-ABCC1	6	2	lamivudine, lopinavir, ritonavir, zidovudine;methotrexate	lamivudine, lopinavir, ritonavir, zidovudine;methotrexate
-VDR	5	4	adalimumab, certolizumab pegol, etanercept, golimumab, infliximab;amoxicillin, clarithromycin, omeprazole;deferasirox;selective beta-2-adrenoreceptor agonists	adalimumab, certolizumab pegol, etanercept, golimumab, infliximab;amoxicillin, clarithromycin, omeprazole;deferasirox;selective beta-2-adrenoreceptor agonists
-CASP7	5	3	docetaxel, gemcitabine, paclitaxel, Platinum compounds, vinorelbine;gemcitabine, Platinum compounds;paclitaxel, Platinum compounds	docetaxel, gemcitabine, paclitaxel, Platinum compounds, vinorelbine;gemcitabine, Platinum compounds;paclitaxel, Platinum compounds
-DRD1	5	3	clozapine;fentanyl;methylphenidate	clozapine;fentanyl;methylphenidate
-CMPK1	5	2	cisplatin, gemcitabine;gemcitabine	cisplatin, gemcitabine;gemcitabine
-ABCB1	4	18	antidepressants;antipsychotics;carbamazepine;clopidogrel;clozapine;fentanyl;fluvastatin;glucocorticoids;imatinib;methotrexate;modafinil;propofol, remifentanil;remifentanil, sevoflurane;risperidone;rocuronium;simvastatin;tacrolimus;valproic acid	antidepressants;antipsychotics;carbamazepine;clopidogrel;clozapine;fentanyl;fluvastatin;glucocorticoids;imatinib;methotrexate;modafinil;propofol, remifentanil;remifentanil, sevoflurane;risperidone;rocuronium;simvastatin;tacrolimus;valproic acid
-ADRB2	4	17	Beta Blocking Agents;atenolol;atenolol, enalapril;atenolol, metoprolol;benazepril;carvedilol;corticosteroids, selective beta-2-adrenoreceptor agonists;dexmedetomidine;enalapril;mepolizumab;methacholine;propranolol;ramipril;salbutamol;salmeterol;terbutaline;tiotropium	Beta Blocking Agents;atenolol;atenolol, enalapril;atenolol, metoprolol;benazepril;carvedilol;corticosteroids, selective beta-2-adrenoreceptor agonists;dexmedetomidine;enalapril;mepolizumab;methacholine;propranolol;ramipril;salbutamol;salmeterol;terbutaline;tiotropium
-HTR2A	4	10	antidepressants;antipsychotics;clozapine;fluoxetine;fluvoxamine;olanzapine;paroxetine;risperidone;ustekinumab;venlafaxine	antidepressants;antipsychotics;clozapine;fluoxetine;fluvoxamine;olanzapine;paroxetine;risperidone;ustekinumab;venlafaxine
-TNF	4	10	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab;adalimumab, certolizumab pegol, golimumab, infliximab;adalimumab, etanercept, infliximab;adalimumab, etanercept, infliximab, Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, infliximab;aspirin, diclofenac, ibuprofen, indomethacin, ketorolac, naproxen;etanercept;etanercept, infliximab, Tumor necrosis factor alpha (TNF-alpha) inhibitors;infliximab	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab;adalimumab, certolizumab pegol, golimumab, infliximab;adalimumab, etanercept, infliximab;adalimumab, etanercept, infliximab, Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, infliximab;aspirin, diclofenac, ibuprofen, indomethacin, ketorolac, naproxen;etanercept;etanercept, infliximab, Tumor necrosis factor alpha (TNF-alpha) inhibitors;infliximab
-DRD3	4	9	antipsychotics;clozapine;duloxetine;methylphenidate;olanzapine;paroxetine;pramipexole;risperidone;sertraline	antipsychotics;clozapine;duloxetine;methylphenidate;olanzapine;paroxetine;pramipexole;risperidone;sertraline
-AGT	4	7	atenolol;atenolol, irbesartan;benazepril;benazepril, imidapril;irbesartan;quinapril;valsartan	atenolol;atenolol, irbesartan;benazepril;benazepril, imidapril;irbesartan;quinapril;valsartan
-KCNQ1	4	6	exenatide;gliclazide;gliclazide, glimepiride, glipizide, glyburide;repaglinide;sitagliptin;sitagliptin, vildagliptin	exenatide;gliclazide;gliclazide, glimepiride, glipizide, glyburide;repaglinide;sitagliptin;sitagliptin, vildagliptin
-IL1B	4	5	Tumor necrosis factor alpha (TNF-alpha) inhibitors;Tumor necrosis factor alpha (TNF-alpha) inhibitors, ustekinumab;infliximab;lansoprazole, omeprazole, rabeprazole;opioids	Tumor necrosis factor alpha (TNF-alpha) inhibitors;Tumor necrosis factor alpha (TNF-alpha) inhibitors, ustekinumab;infliximab;lansoprazole, omeprazole, rabeprazole;opioids
-NEDD4L	4	4	"""Beta blocking agents, selective"", ""diuretics"";Aldosterone antagonists, amiloride;citalopram;hydrochlorothiazide"	"""Beta blocking agents, selective"", ""diuretics"";Aldosterone antagonists, amiloride;citalopram;hydrochlorothiazide"
-SLC6A2	4	3	atomoxetine;methylphenidate;venlafaxine	atomoxetine;methylphenidate;venlafaxine
-TLR4	4	3	Pertussis vaccines;Tumor necrosis factor alpha (TNF-alpha) inhibitors;prednisolone	Pertussis vaccines;Tumor necrosis factor alpha (TNF-alpha) inhibitors;prednisolone
-AREG	4	2	capecitabine, radiotherapy;cetuximab, panitumumab	capecitabine, radiotherapy;cetuximab, panitumumab
-IL4R	4	2	Hepatitis vaccines;pitrakinra	Hepatitis vaccines;pitrakinra
-IL6R	4	2	sarilumab;tocilizumab	sarilumab;tocilizumab
-CHST3	4	1	docetaxel, thalidomide	docetaxel, thalidomide
-PPARD	4	1	docetaxel, thalidomide	docetaxel, thalidomide
-ABCC2	3	9	CHOP, rituximab;antiepileptics;atorvastatin;atorvastatin, simvastatin;cisplatin, doxorubicin, methotrexate;clopidogrel;lacosamide;simvastatin;tamoxifen	CHOP, rituximab;antiepileptics;atorvastatin;atorvastatin, simvastatin;cisplatin, doxorubicin, methotrexate;clopidogrel;lacosamide;simvastatin;tamoxifen
-AGTR1	3	8	angiotensin II;benazepril;candesartan;captopril;irbesartan;losartan;nitrendipine;perindopril	angiotensin II;benazepril;candesartan;captopril;irbesartan;losartan;nitrendipine;perindopril
-APOE	3	8	Selective serotonin reuptake inhibitors;atorvastatin;atorvastatin, pravastatin, simvastatin;donepezil, galantamine, rivastigmine;fenofibrate;fluvastatin;hmg coa reductase inhibitors;rosuvastatin	Selective serotonin reuptake inhibitors;atorvastatin;atorvastatin, pravastatin, simvastatin;donepezil, galantamine, rivastigmine;fenofibrate;fluvastatin;hmg coa reductase inhibitors;rosuvastatin
-CYP2C19	3	8	aspirin, clopidogrel;citalopram;clopidogrel;clopidogrel, prasugrel, ticagrelor;cyclophosphamide;cyclophosphamide, doxorubicin;diazepam;phenazepam	aspirin, clopidogrel;citalopram;clopidogrel;clopidogrel, prasugrel, ticagrelor;cyclophosphamide;cyclophosphamide, doxorubicin;diazepam;phenazepam
-HTR1A	3	6	amisulpride, antipsychotics, olanzapine, quetiapine, risperidone;clozapine;fluoxetine;fluvoxamine, milnacipran, paroxetine;lurasidone;milnacipran	amisulpride, antipsychotics, olanzapine, quetiapine, risperidone;clozapine;fluoxetine;fluvoxamine, milnacipran, paroxetine;lurasidone;milnacipran
-TCF7L2	3	6	exenatide;glipizide;linagliptin;metformin;repaglinide;sulfonamides, urea derivatives	exenatide;glipizide;linagliptin;metformin;repaglinide;sulfonamides, urea derivatives
-CETP	3	5	atorvastatin;hmg coa reductase inhibitors;lovastatin;rosuvastatin;simvastatin	atorvastatin;hmg coa reductase inhibitors;lovastatin;rosuvastatin;simvastatin
-IL6	3	5	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, etanercept, infliximab;fenofibrate;peginterferon alfa-2a;tacrolimus	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, etanercept, infliximab;fenofibrate;peginterferon alfa-2a;tacrolimus
-DPYD	3	4	capecitabine;capecitabine, fluorouracil, tegafur / gimeracil / oteracil;cisplatin, fluorouracil;fluorouracil	capecitabine;capecitabine, fluorouracil, tegafur / gimeracil / oteracil;cisplatin, fluorouracil;fluorouracil
-VKORC1	3	4	acenocoumarol;acenocoumarol, warfarin;phenprocoumon;warfarin	acenocoumarol;acenocoumarol, warfarin;phenprocoumon;warfarin
-KDR	3	3	carfilzomib, dexamethasone, lenalidomide;clopidogrel;ranibizumab	carfilzomib, dexamethasone, lenalidomide;clopidogrel;ranibizumab
-NR1I2	3	3	corticosteroids;efavirenz, nevirapine;pazopanib	corticosteroids;efavirenz, nevirapine;pazopanib
-PEAR1	3	3	aspirin, clopidogrel, prasugrel;aspirin, prasugrel;ticagrelor	aspirin, clopidogrel, prasugrel;aspirin, prasugrel;ticagrelor
-TGFB1	3	3	etanercept;glatiramer acetate;rituximab	etanercept;glatiramer acetate;rituximab
-TNFAIP3	3	3	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab;tildrakizumab	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab;tildrakizumab
-TPH2	3	3	antidepressants;fluoxetine;mirtazapine, venlafaxine	antidepressants;fluoxetine;mirtazapine, venlafaxine
-TRPV1	3	3	acetaminophen;botulinum toxin type a;cannabinoids	acetaminophen;botulinum toxin type a;cannabinoids
-AKT1	3	2	carboplatin, cisplatin;risperidone	carboplatin, cisplatin;risperidone
-APOB	3	2	fenofibrate;irbesartan	fenofibrate;irbesartan
-CCL2	3	2	antipsychotics;risperidone	antipsychotics;risperidone
-CDKAL1	3	2	Dipeptidyl peptidase 4 (DPP-4) inhibitors;Tumor necrosis factor alpha (TNF-alpha) inhibitors	Dipeptidyl peptidase 4 (DPP-4) inhibitors;Tumor necrosis factor alpha (TNF-alpha) inhibitors
-GRK4	3	2	atenolol;metoprolol	atenolol;metoprolol
-GRM3	3	2	antipsychotics;risperidone	antipsychotics;risperidone
-LDLR	3	2	lovastatin;peginterferon alfa-2a, peginterferon alfa-2b, ribavirin	lovastatin;peginterferon alfa-2a, peginterferon alfa-2b, ribavirin
-TLR2	3	2	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, infliximab	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, infliximab
-UGT1A9	3	2	oxcarbazepine;simvastatin	oxcarbazepine;simvastatin
-BCL11A	3	1	hydroxyurea	hydroxyurea
-HTR3A	3	1	clozapine	clozapine
-MECP2	3	1	cisplatin, fluorouracil, mitoxantrone	cisplatin, fluorouracil, mitoxantrone
-P2RY12	3	1	clopidogrel	clopidogrel
-RAMP1	3	1	erenumab	erenumab
-IFNL3, IFNL4	2	15	"""interferon alfa-2a, recombinant"", ""interferon alfa-2b, recombinant"", ""ribavirin"";atorvastatin;boceprevir, peginterferon alfa-2a, peginterferon alfa-2b, ribavirin, telaprevir;deleobuvir, faldaprevir;direct acting antivirals, elbasvir / grazoprevir, ledipasvir / sofosbuvir;highly active antiretroviral therapy (haart);interferon alfa-n1, peginterferon alfa-2b, ribavirin;interferons, ribavirin;ledipasvir, sofosbuvir;peginterferon alfa-2a, peginterferon alfa-2b;peginterferon alfa-2a, peginterferon alfa-2b, ribavirin;peginterferon alfa-2a, peginterferon alfa-2b, ribavirin, telaprevir;peginterferon alfa-2a, ribavirin;peginterferon alfa-2b, ribavirin;peginterferon alfa-2b, ribavirin, telaprevir"	"""interferon alfa-2a, recombinant"", ""interferon alfa-2b, recombinant"", ""ribavirin"";atorvastatin;boceprevir, peginterferon alfa-2a, peginterferon alfa-2b, ribavirin, telaprevir;deleobuvir, faldaprevir;direct acting antivirals, elbasvir / grazoprevir, ledipasvir / sofosbuvir;highly active antiretroviral therapy (haart);interferon alfa-n1, peginterferon alfa-2b, ribavirin;interferons, ribavirin;ledipasvir, sofosbuvir;peginterferon alfa-2a, peginterferon alfa-2b;peginterferon alfa-2a, peginterferon alfa-2b, ribavirin;peginterferon alfa-2a, peginterferon alfa-2b, ribavirin, telaprevir;peginterferon alfa-2a, ribavirin;peginterferon alfa-2b, ribavirin;peginterferon alfa-2b, ribavirin, telaprevir"
-MTHFR	2	11	Vitamin B-complex, Incl. Combinations;antipsychotics, chlorpromazine, clozapine, haloperidol, olanzapine, quetiapine, risperidone;benazepril;bevacizumab, capecitabine, cisplatin, docetaxel, epirubicin, oxaliplatin, trastuzumab;capecitabine, fluorouracil, leucovorin, oxaliplatin;disulfiram;fluorouracil;fluorouracil, leucovorin, oxaliplatin;methotrexate;oxaliplatin;vitamin b12 and folic acid	Vitamin B-complex, Incl. Combinations;antipsychotics, chlorpromazine, clozapine, haloperidol, olanzapine, quetiapine, risperidone;benazepril;bevacizumab, capecitabine, cisplatin, docetaxel, epirubicin, oxaliplatin, trastuzumab;capecitabine, fluorouracil, leucovorin, oxaliplatin;disulfiram;fluorouracil;fluorouracil, leucovorin, oxaliplatin;methotrexate;oxaliplatin;vitamin b12 and folic acid
-OPRM1	2	11	Opioid anesthetics, Other general anesthetics, volatile anesthetics;acetaminophen, tramadol;ethanol;fentanyl;methadone;morphine;naltrexone;nicotine;opioids;oxycodone;tramadol	Opioid anesthetics, Other general anesthetics, volatile anesthetics;acetaminophen, tramadol;ethanol;fentanyl;methadone;morphine;naltrexone;nicotine;opioids;oxycodone;tramadol
-GNB3	2	9	antidepressants;atenolol;bumetanide, furosemide, torasemide;clonidine;hydralazine / isosorbide dinitrate;sibutramine;sildenafil;sumatriptan;telmisartan	antidepressants;atenolol;bumetanide, furosemide, torasemide;clonidine;hydralazine / isosorbide dinitrate;sibutramine;sildenafil;sumatriptan;telmisartan
-CYP3A5	2	7	atorvastatin;atorvastatin, lovastatin, simvastatin;clopidogrel;docetaxel, paclitaxel;imatinib;rosuvastatin;tacrolimus	atorvastatin;atorvastatin, lovastatin, simvastatin;clopidogrel;docetaxel, paclitaxel;imatinib;rosuvastatin;tacrolimus
-ERCC1	2	6	Platinum compounds;bevacizumab, capecitabine, cisplatin, docetaxel, epirubicin, oxaliplatin, trastuzumab;capecitabine, radiotherapy;cisplatin;cisplatin, gemcitabine;fluorouracil, leucovorin, oxaliplatin	Platinum compounds;bevacizumab, capecitabine, cisplatin, docetaxel, epirubicin, oxaliplatin, trastuzumab;capecitabine, radiotherapy;cisplatin;cisplatin, gemcitabine;fluorouracil, leucovorin, oxaliplatin
-XRCC1	2	6	Platinum compounds;carboplatin, cisplatin, fluorouracil;cisplatin, radiotherapy;fluorouracil;fluorouracil, leucovorin, oxaliplatin;platinum	Platinum compounds;carboplatin, cisplatin, fluorouracil;cisplatin, radiotherapy;fluorouracil;fluorouracil, leucovorin, oxaliplatin;platinum
-CYP2C9	2	5	ibuprofen;irbesartan;ketoprofen;sitagliptin;sulfonamides, urea derivatives	ibuprofen;irbesartan;ketoprofen;sitagliptin;sulfonamides, urea derivatives
-ADRA2A	2	4	Selective serotonin reuptake inhibitors;atenolol;methylphenidate;milnacipran	Selective serotonin reuptake inhibitors;atenolol;methylphenidate;milnacipran
-APOA5	2	4	atorvastatin;fenofibrate;rosuvastatin;simvastatin	atorvastatin;fenofibrate;rosuvastatin;simvastatin
-CACNA1C	2	4	Calcium channel blockers;amlodipine, felodipine;lacidipine, nifedipine, nitrendipine;nimodipine	Calcium channel blockers;amlodipine, felodipine;lacidipine, nifedipine, nitrendipine;nimodipine
-CFH	2	4	Photodynamic therapy;bevacizumab;bevacizumab, ranibizumab;ranibizumab	Photodynamic therapy;bevacizumab;bevacizumab, ranibizumab;ranibizumab
-IL12B	2	4	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, infliximab;etanercept;ustekinumab	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, infliximab;etanercept;ustekinumab
-SLC19A1	2	4	capecitabine, fluorouracil, irinotecan, leucovorin;carboplatin, cisplatin, fluorouracil;folic acid, hydroxychloroquine, methotrexate, sulfasalazine;methotrexate	capecitabine, fluorouracil, irinotecan, leucovorin;carboplatin, cisplatin, fluorouracil;folic acid, hydroxychloroquine, methotrexate, sulfasalazine;methotrexate
-TNFRSF1B	2	4	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, etanercept, infliximab, ustekinumab;etanercept;infliximab	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, etanercept, infliximab, ustekinumab;etanercept;infliximab
-CDA	2	3	capecitabine;cisplatin, gemcitabine;gemcitabine	capecitabine;cisplatin, gemcitabine;gemcitabine
-CHRNA5	2	3	bupropion, nicotine, varenicline;nicotine;varenicline	bupropion, nicotine, varenicline;nicotine;varenicline
-ABCA1	2	2	atorvastatin, rosuvastatin, simvastatin;fenofibrate	atorvastatin, rosuvastatin, simvastatin;fenofibrate
-ABCC4	2	2	imatinib;latanoprost	imatinib;latanoprost
-ACE	2	2	pravastatin;ramipril	pravastatin;ramipril
-ADCY9	2	2	dalcetrapib;salbutamol	dalcetrapib;salbutamol
-ATIC	2	2	folic acid, methotrexate;methotrexate	folic acid, methotrexate;methotrexate
-CES1	2	2	clopidogrel;sofosbuvir	clopidogrel;sofosbuvir
-ERCC2	2	2	Platinum compounds;bevacizumab, capecitabine, cisplatin, docetaxel, epirubicin, oxaliplatin, trastuzumab	Platinum compounds;bevacizumab, capecitabine, cisplatin, docetaxel, epirubicin, oxaliplatin, trastuzumab
-ESR1	2	2	leflunomide;raloxifene	leflunomide;raloxifene
-FTO	2	2	"""interferon alfa-2a, recombinant"", ""interferon alfa-2b, recombinant"", ""ribavirin"";PD-1/PDL-1 (Programmed cell death protein 1/death ligand 1) inhibitors"	"""interferon alfa-2a, recombinant"", ""interferon alfa-2b, recombinant"", ""ribavirin"";PD-1/PDL-1 (Programmed cell death protein 1/death ligand 1) inhibitors"
-GABRA1	2	2	carbamazepine;valproic acid	carbamazepine;valproic acid
-GNAS	2	2	cisplatin, fluorouracil;dobutamine	cisplatin, fluorouracil;dobutamine
-GSK3B	2	2	citalopram, fluoxetine;lithium	citalopram, fluoxetine;lithium
-HMGCR	2	2	atorvastatin;hmg coa reductase inhibitors	atorvastatin;hmg coa reductase inhibitors
-IFNG	2	2	Tumor necrosis factor alpha (TNF-alpha) inhibitors;penicillin g	Tumor necrosis factor alpha (TNF-alpha) inhibitors;penicillin g
-IL13	2	2	Hepatitis vaccines;ustekinumab	Hepatitis vaccines;ustekinumab
-IL18	2	2	"""interferon alfa-2a, recombinant"", ""interferon alfa-2b, recombinant"", ""interferons"", ""peginterferon alfa-2a"", ""peginterferon alfa-2b"", ""ribavirin"";Tumor necrosis factor alpha (TNF-alpha) inhibitors"	"""interferon alfa-2a, recombinant"", ""interferon alfa-2b, recombinant"", ""interferons"", ""peginterferon alfa-2a"", ""peginterferon alfa-2b"", ""ribavirin"";Tumor necrosis factor alpha (TNF-alpha) inhibitors"
-LPL	2	2	fenofibrate;pravastatin	fenofibrate;pravastatin
-OPRD1	2	2	buprenorphine;oxycodone	buprenorphine;oxycodone
-PDE4D	2	2	apremilast;quetiapine	apremilast;quetiapine
-PRKCE	2	2	donepezil, galantamine, rivastigmine;perphenazine	donepezil, galantamine, rivastigmine;perphenazine
-PTPRD	2	2	pioglitazone;trandolapril, verapamil	pioglitazone;trandolapril, verapamil
-SLC22A1	2	2	imatinib;metformin	imatinib;metformin
-SNAP25	2	2	amisulpride;methylphenidate	amisulpride;methylphenidate
-TNFRSF1A	2	2	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, etanercept, infliximab	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, etanercept, infliximab
-UGT1A1	2	2	cisplatin, irinotecan;deferasirox	cisplatin, irinotecan;deferasirox
-ADA	2	1	methotrexate	methotrexate
-ADH1A	2	1	cytarabine, fludarabine, gemtuzumab ozogamicin, idarubicin	cytarabine, fludarabine, gemtuzumab ozogamicin, idarubicin
-ATP7B	2	1	Platinum compounds	Platinum compounds
-BDNF, BDNF-AS	2	1	methadone	methadone
-CARD16	2	1	peginterferon alfa-2b, ribavirin	peginterferon alfa-2b, ribavirin
-CDK4	2	1	somatropin recombinant	somatropin recombinant
-CFTR	2	1	ivacaftor	ivacaftor
-CHRM2	2	1	fluticasone / salmeterol	fluticasone / salmeterol
-CRHR1	2	1	fluticasone propionate	fluticasone propionate
-DCK	2	1	cytarabine, idarubicin	cytarabine, idarubicin
-FKBP5	2	1	antidepressants	antidepressants
-GDNF	2	1	paroxetine	paroxetine
-GGH	2	1	methotrexate	methotrexate
-GRIA3	2	1	Selective serotonin reuptake inhibitors, venlafaxine	Selective serotonin reuptake inhibitors, venlafaxine
-GRK5	2	1	Beta Blocking Agents	Beta Blocking Agents
-HTR2C	2	1	risperidone	risperidone
-KIF6	2	1	atorvastatin, pravastatin	atorvastatin, pravastatin
-MAP3K5	2	1	hydroxyurea	hydroxyurea
-NPPA-AS1	2	1	bumetanide, furosemide, torasemide	bumetanide, furosemide, torasemide
-NR1D1, THRA	2	1	lithium	lithium
-NR1I3	2	1	efavirenz, nevirapine	efavirenz, nevirapine
-NRXN1	2	1	antipsychotics	antipsychotics
-PRKCA	2	1	"""diuretics"", ""hydrochlorothiazide"", ""Thiazides, plain"""	"""diuretics"", ""hydrochlorothiazide"", ""Thiazides, plain"""
-PTGFR	2	1	latanoprost	latanoprost
-REEP5	2	1	citalopram, fluoxetine, paroxetine, sertraline	citalopram, fluoxetine, paroxetine, sertraline
-RRM2	2	1	cladribine, cytarabine	cladribine, cytarabine
-SLC16A7	2	1	methotrexate	methotrexate
-SLC22A5	2	1	imatinib	imatinib
-SLC47A2	2	1	metformin	metformin
-SLCO1B3	2	1	imatinib	imatinib
-UGT1A6	2	1	deferiprone	deferiprone
-ADRB1	1	8	Beta Blocking Agents;Beta Blocking Agents, flecainide;atenolol;atenolol, carvedilol, diltiazem, metoprolol, verapamil;bucindolol;carvedilol;dobutamine;metoprolol	Beta Blocking Agents;Beta Blocking Agents, flecainide;atenolol;atenolol, carvedilol, diltiazem, metoprolol, verapamil;bucindolol;carvedilol;dobutamine;metoprolol
-FCGR2A	1	8	Tumor necrosis factor alpha (TNF-alpha) inhibitors;abatacept, rituximab, tocilizumab, Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab;adalimumab, etanercept, infliximab;cetuximab;cyclophosphamide, doxorubicin, paclitaxel, trastuzumab;infliximab;rituximab	Tumor necrosis factor alpha (TNF-alpha) inhibitors;abatacept, rituximab, tocilizumab, Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab;adalimumab, etanercept, infliximab;cetuximab;cyclophosphamide, doxorubicin, paclitaxel, trastuzumab;infliximab;rituximab
-GSTP1	1	7	anthracyclines and related substances;cisplatin, doxorubicin, methotrexate;cyclophosphamide, epirubicin;cyclophosphamide, epirubicin, fluorouracil;dimethyl fumarate;fluorouracil, oxaliplatin;nilotinib	anthracyclines and related substances;cisplatin, doxorubicin, methotrexate;cyclophosphamide, epirubicin;cyclophosphamide, epirubicin, fluorouracil;dimethyl fumarate;fluorouracil, oxaliplatin;nilotinib
-BCHE	1	3	donepezil;memantine, rivastigmine;rivastigmine	donepezil;memantine, rivastigmine;rivastigmine
-CXCL8	1	3	bevacizumab;bevacizumab, cyclophosphamide;ranibizumab	bevacizumab;bevacizumab, cyclophosphamide;ranibizumab
-CYP11B2	1	3	benazepril, imidapril;candesartan;hydralazine / isosorbide dinitrate	benazepril, imidapril;candesartan;hydralazine / isosorbide dinitrate
-CYP2B6	1	3	bupropion;cyclophosphamide;efavirenz, lamivudine, tenofovir	bupropion;cyclophosphamide;efavirenz, lamivudine, tenofovir
-DBH	1	3	disulfiram;levodopa;naltrexone	disulfiram;levodopa;naltrexone
-IL17F	1	3	adalimumab;infliximab;ustekinumab	adalimumab;infliximab;ustekinumab
-KCNJ11	1	3	gliclazide;repaglinide;sulfonamides, urea derivatives	gliclazide;repaglinide;sulfonamides, urea derivatives
-LIPC	1	3	fluvastatin;pravastatin;simvastatin	fluvastatin;pravastatin;simvastatin
-MMP9	1	3	Antihypertensives, hydralazine, Methyldopa, nifedipine;Methyldopa;ulinastatin	Antihypertensives, hydralazine, Methyldopa, nifedipine;Methyldopa;ulinastatin
-MTR	1	3	benazepril;folic acid, hydroxychloroquine, methotrexate, sulfasalazine;methotrexate	benazepril;folic acid, hydroxychloroquine, methotrexate, sulfasalazine;methotrexate
-SLCO1C1	1	3	Tumor necrosis factor alpha (TNF-alpha) inhibitors;etanercept;infliximab	Tumor necrosis factor alpha (TNF-alpha) inhibitors;etanercept;infliximab
-TP53	1	3	capecitabine, paclitaxel;cisplatin, paclitaxel;oxaliplatin	capecitabine, paclitaxel;cisplatin, paclitaxel;oxaliplatin
-ADD1	1	2	bumetanide, furosemide, torasemide;hydrochlorothiazide	bumetanide, furosemide, torasemide;hydrochlorothiazide
-ADRA1A	1	2	disulfiram;nifedipine	disulfiram;nifedipine
-ALDH2	1	2	naltrexone;nitroglycerin	naltrexone;nitroglycerin
-AMPD1	1	2	folic acid, methotrexate;methotrexate	folic acid, methotrexate;methotrexate
-ANKK1	1	2	aripiprazole;risperidone	aripiprazole;risperidone
-ANKK1, DRD2	1	2	bupropion, naltrexone;prochlorperazine	bupropion, naltrexone;prochlorperazine
-BDNF-AS	1	2	antidepressants;antipsychotics	antidepressants;antipsychotics
-CYP19A1	1	2	anastrozole, letrozole, tamoxifen;tamoxifen	anastrozole, letrozole, tamoxifen;tamoxifen
-CYP1A2	1	2	clozapine;nevirapine	clozapine;nevirapine
-CYP1B1	1	2	codeine, tramadol;cyclophosphamide, epirubicin, fluorouracil	codeine, tramadol;cyclophosphamide, epirubicin, fluorouracil
-CYP27B1	1	2	deferasirox;peginterferon alfa-2b, ribavirin	deferasirox;peginterferon alfa-2b, ribavirin
-ERICH3	1	2	antidepressants;antidepressants, citalopram, escitalopram	antidepressants;antidepressants, citalopram, escitalopram
-GLCCI1	1	2	corticosteroids;glucocorticoids	corticosteroids;glucocorticoids
-GPR83	1	2	candesartan;hydrochlorothiazide	candesartan;hydrochlorothiazide
-HDAC1	1	2	Corticosteroids For Systemic Use;corticosteroids	Corticosteroids For Systemic Use;corticosteroids
-LPA	1	2	hmg coa reductase inhibitors;rosuvastatin	hmg coa reductase inhibitors;rosuvastatin
-NOS3	1	2	enalapril;sildenafil	enalapril;sildenafil
-PON1	1	2	epirubicin, fluorouracil, oxaliplatin;simvastatin	epirubicin, fluorouracil, oxaliplatin;simvastatin
-PPARG	1	2	pioglitazone;rosiglitazone	pioglitazone;rosiglitazone
-SCAP	1	2	rosuvastatin;simvastatin	rosuvastatin;simvastatin
-SCN2A	1	2	carbamazepine, phenobarbital, phenytoin, valproic acid;valproic acid	carbamazepine, phenobarbital, phenytoin, valproic acid;valproic acid
-SLC22A4	1	2	imatinib;ustekinumab	imatinib;ustekinumab
-SLC30A8	1	2	insulin recombinant, zinc acetate;repaglinide	insulin recombinant, zinc acetate;repaglinide
-STAT4	1	2	etanercept;ustekinumab	etanercept;ustekinumab
-TLR9	1	2	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, etanercept, infliximab, Tumor necrosis factor alpha (TNF-alpha) inhibitors	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, etanercept, infliximab, Tumor necrosis factor alpha (TNF-alpha) inhibitors
-XRCC3	1	2	Platinum compounds;cisplatin, docetaxel, irinotecan	Platinum compounds;cisplatin, docetaxel, irinotecan
-ABCC8, KCNJ11	1	1	"""metformin"", ""sulfonamides, urea derivatives"""	"""metformin"", ""sulfonamides, urea derivatives"""
-ACE2	1	1	captopril	captopril
-ACHE	1	1	rivastigmine	rivastigmine
-ADGRL3	1	1	methylphenidate	methylphenidate
-ADIPOQ	1	1	pioglitazone	pioglitazone
-ADM	1	1	paroxetine	paroxetine
-ADORA1	1	1	caffeine	caffeine
-ADORA2A	1	1	methotrexate	methotrexate
-AGAP1	1	1	risperidone	risperidone
-ALDH1A1	1	1	cyclophosphamide, doxorubicin	cyclophosphamide, doxorubicin
-ALDH5A1	1	1	methadone	methadone
-ANKS1B	1	1	amisulpride	amisulpride
-AOC1	1	1	cannabidiol	cannabidiol
-AOX1	1	1	azathioprine	azathioprine
-APOA1	1	1	fenofibrate	fenofibrate
-APOC1	1	1	hmg coa reductase inhibitors	hmg coa reductase inhibitors
-ARG1	1	1	selective beta-2-adrenoreceptor agonists	selective beta-2-adrenoreceptor agonists
-ARG2	1	1	Methyldopa	Methyldopa
-ARMS2	1	1	bevacizumab	bevacizumab
-ASIC2	1	1	lithium	lithium
-ASS1	1	1	hydroxyurea	hydroxyurea
-ATG16L1	1	1	adalimumab	adalimumab
-ATM	1	1	metformin	metformin
-ATP1A2	1	1	olanzapine	olanzapine
-BCL2L11	1	1	imatinib	imatinib
-BDKRB1	1	1	perindopril	perindopril
-BDKRB2	1	1	enalapril	enalapril
-BEST3	1	1	hydrochlorothiazide	hydrochlorothiazide
-BMP5	1	1	escitalopram	escitalopram
-C11orf65	1	1	metformin	metformin
-C1orf167, CLCN6, MTHFR	1	1	methotrexate	methotrexate
-C5orf56	1	1	hydrochlorothiazide	hydrochlorothiazide
-C9orf72	1	1	ustekinumab	ustekinumab
-CA10	1	1	fluticasone propionate, montelukast	fluticasone propionate, montelukast
-CACNA1D	1	1	amlodipine	amlodipine
-CACNA1H	1	1	lamotrigine	lamotrigine
-CACNA2D3	1	1	antipsychotics	antipsychotics
-CACNB2	1	1	antipsychotics	antipsychotics
-CACNB4	1	1	antipsychotics	antipsychotics
-CACNG2	1	1	lithium	lithium
-CALCA	1	1	botulinum toxin type a	botulinum toxin type a
-CALCRL	1	1	erenumab	erenumab
-CAPN10	1	1	metformin	metformin
-CASP1	1	1	peginterferon alfa-2b, ribavirin	peginterferon alfa-2b, ribavirin
-CBR3	1	1	CHOP, rituximab	CHOP, rituximab
-CCL11	1	1	morphine	morphine
-CD40	1	1	prednisolone	prednisolone
-CD58	1	1	interferon beta-1a, interferon beta-1b	interferon beta-1a, interferon beta-1b
-CD84	1	1	etanercept	etanercept
-CDC5L	1	1	gemcitabine	gemcitabine
-CDH13	1	1	amphetamine	amphetamine
-CDH4	1	1	ziprasidone	ziprasidone
-CDKN2B, CDKN2B-AS1	1	1	apremilast	apremilast
-CELSR2	1	1	hmg coa reductase inhibitors	hmg coa reductase inhibitors
-CERS6	1	1	adalimumab, certolizumab pegol, etanercept, infliximab, Tumor necrosis factor alpha (TNF-alpha) inhibitors	adalimumab, certolizumab pegol, etanercept, infliximab, Tumor necrosis factor alpha (TNF-alpha) inhibitors
-CFAP44	1	1	hmg coa reductase inhibitors	hmg coa reductase inhibitors
-CHDH, IL17RB	1	1	acamprosate	acamprosate
-CHRNA3, CHRNA5	1	1	nicotine	nicotine
-CHRNA4	1	1	varenicline	varenicline
-CHRNA7	1	1	donepezil, galantamine, rivastigmine	donepezil, galantamine, rivastigmine
-CLCN6, MTHFR	1	1	methotrexate	methotrexate
-CLEC16A	1	1	glatiramer acetate	glatiramer acetate
-CNPY4	1	1	Tumor necrosis factor alpha (TNF-alpha) inhibitors	Tumor necrosis factor alpha (TNF-alpha) inhibitors
-CNR1	1	1	liraglutide	liraglutide
-CNTF, ZFP91-CNTF	1	1	iloperidone	iloperidone
-CNTN4	1	1	ziprasidone	ziprasidone
-COL1A1	1	1	etidronic acid	etidronic acid
-COQ8B, ITPKC	1	1	Immunoglobulins	Immunoglobulins
-CREB1	1	1	antidepressants	antidepressants
-CRP	1	1	fenofibrate	fenofibrate
-CSK	1	1	hydrochlorothiazide	hydrochlorothiazide
-CSMD1	1	1	olanzapine	olanzapine
-CTNNA2	1	1	Tumor necrosis factor alpha (TNF-alpha) inhibitors	Tumor necrosis factor alpha (TNF-alpha) inhibitors
-CTNNA3	1	1	antidepressants	antidepressants
-CTRB1, CTRB2	1	1	Dipeptidyl peptidase 4 (DPP-4) inhibitors	Dipeptidyl peptidase 4 (DPP-4) inhibitors
-CXCL10	1	1	peginterferon alfa-2a, peginterferon alfa-2b	peginterferon alfa-2a, peginterferon alfa-2b
-CXCL5	1	1	hmg coa reductase inhibitors	hmg coa reductase inhibitors
-CYP1A1	1	1	antiepileptics	antiepileptics
-CYP2C8	1	1	corticosteroids, montelukast	corticosteroids, montelukast
-CYP2D6	1	1	metoprolol	metoprolol
-CYP3A4, TMEM130	1	1	apremilast	apremilast
-CYP4F2	1	1	aspirin, clopidogrel	aspirin, clopidogrel
-CYP7A1	1	1	atorvastatin	atorvastatin
-DHFR	1	1	methotrexate	methotrexate
-DOCK6	1	1	apremilast	apremilast
-DOT1L	1	1	hydrochlorothiazide	hydrochlorothiazide
-EGFR	1	1	fluorouracil	fluorouracil
-EIF3G, P2RY11, PPAN-P2RY11	1	1	apremilast	apremilast
-ENOSF1	1	1	fluorouracil	fluorouracil
-ERBB3	1	1	carboplatin, docetaxel, trastuzumab	carboplatin, docetaxel, trastuzumab
-ERCC3	1	1	Platinum compounds	Platinum compounds
-ERCC4	1	1	Platinum compounds	Platinum compounds
-ERCC5	1	1	platinum	platinum
-ESR2	1	1	gemcitabine	gemcitabine
-EXO1	1	1	pemetrexed	pemetrexed
-F13A1	1	1	Photodynamic therapy	Photodynamic therapy
-F3	1	1	simvastatin	simvastatin
-FASTKD3, MTRR	1	1	methotrexate	methotrexate
-FCAR	1	1	pravastatin	pravastatin
-FCER1A	1	1	desloratadine, mizolastine	desloratadine, mizolastine
-FDPS	1	1	Bisphosphonates	Bisphosphonates
-FHIT	1	1	interferon beta-1a, interferon beta-1b	interferon beta-1a, interferon beta-1b
-FMO2	1	1	glyburide	glyburide
-FMO5	1	1	metformin	metformin
-FOLR3	1	1	pemetrexed	pemetrexed
-FPGS	1	1	methotrexate	methotrexate
-GABRQ	1	1	venlafaxine	venlafaxine
-GADL1	1	1	lithium	lithium
-GAL	1	1	antidepressants, benzodiazepine derivatives, mirtazapine, Selective serotonin reuptake inhibitors	antidepressants, benzodiazepine derivatives, mirtazapine, Selective serotonin reuptake inhibitors
-GALNT18	1	1	cisplatin	cisplatin
-GATA3	1	1	prednisolone	prednisolone
-GATA4	1	1	Drugs used in alcohol dependence	Drugs used in alcohol dependence
-GBP6	1	1	etanercept	etanercept
-GC	1	1	deferasirox	deferasirox
-GLDC	1	1	citalopram, escitalopram	citalopram, escitalopram
-GP1BA	1	1	aspirin	aspirin
-GRIK1	1	1	topiramate	topiramate
-GRIK4	1	1	antidepressants	antidepressants
-GRIN2B	1	1	acamprosate	acamprosate
-HIF1A	1	1	cisplatin, gemcitabine, pemetrexed	cisplatin, gemcitabine, pemetrexed
-HLA-B	1	1	etanercept	etanercept
-HLA-C	1	1	Tumor necrosis factor alpha (TNF-alpha) inhibitors	Tumor necrosis factor alpha (TNF-alpha) inhibitors
-HLA-DPA1	1	1	peginterferon alfa-2b	peginterferon alfa-2b
-HLA-G	1	1	capecitabine, fluorouracil	capecitabine, fluorouracil
-HMGB1	1	1	Platinum compounds	Platinum compounds
-HRH4	1	1	risperidone	risperidone
-HSPA5	1	1	Platinum compounds	Platinum compounds
-IFNAR1	1	1	glatiramer acetate	glatiramer acetate
-IGF2R	1	1	salbutamol	salbutamol
-IL10	1	1	etanercept	etanercept
-IL11	1	1	escitalopram	escitalopram
-IL17A	1	1	Tumor necrosis factor alpha (TNF-alpha) inhibitors	Tumor necrosis factor alpha (TNF-alpha) inhibitors
-IL1RN	1	1	Tumor necrosis factor alpha (TNF-alpha) inhibitors	Tumor necrosis factor alpha (TNF-alpha) inhibitors
-IL2	1	1	rituximab	rituximab
-IL21R	1	1	peginterferon alfa-2b, ribavirin	peginterferon alfa-2b, ribavirin
-ILF3	1	1	apremilast	apremilast
-ITIH3	1	1	clozapine	clozapine
-KCNMA1	1	1	quetiapine	quetiapine
-KCNMB1	1	1	tocilizumab	tocilizumab
-KCNMB2	1	1	ritodrine	ritodrine
-KMT2E	1	1	duloxetine	duloxetine
-KRAS	1	1	capecitabine, cetuximab, oxaliplatin	capecitabine, cetuximab, oxaliplatin
-LEPR	1	1	simvastatin	simvastatin
-LEPR, LEPROT	1	1	apremilast	apremilast
-LGR5	1	1	fluorouracil	fluorouracil
-LPIN1	1	1	rosiglitazone	rosiglitazone
-LRP1B	1	1	risperidone	risperidone
-LYN	1	1	ziprasidone	ziprasidone
-MALAT1	1	1	Platinum compounds	Platinum compounds
-MAML3	1	1	perphenazine	perphenazine
-MAPK1	1	1	antidepressants	antidepressants
-MCPH1	1	1	perphenazine	perphenazine
-MDM4	1	1	docetaxel, epirubicin	docetaxel, epirubicin
-MGAT5	1	1	ursodeoxycholic acid	ursodeoxycholic acid
-MICB	1	1	peginterferon alfa-2a, peginterferon alfa-2b, ribavirin	peginterferon alfa-2a, peginterferon alfa-2b, ribavirin
-MLLT3	1	1	montelukast	montelukast
-MMP2	1	1	ulinastatin	ulinastatin
-MOBP	1	1	creatine	creatine
-MTHFD1	1	1	cisplatin, doxorubicin, methotrexate	cisplatin, doxorubicin, methotrexate
-MTRR	1	1	methotrexate	methotrexate
-MTTP	1	1	atorvastatin	atorvastatin
-MYLIP	1	1	atorvastatin	atorvastatin
-NALCN	1	1	ziprasidone	ziprasidone
-NAT2	1	1	iguratimod	iguratimod
-NCF4	1	1	idarubicin	idarubicin
-NCOA3	1	1	salbutamol	salbutamol
-NFKB1	1	1	flupenthixol	flupenthixol
-NLRP3	1	1	etanercept, infliximab	etanercept, infliximab
-NPAS3	1	1	risperidone	risperidone
-NPC1L1	1	1	hmg coa reductase inhibitors	hmg coa reductase inhibitors
-NQO1	1	1	epirubicin, fluorouracil, oxaliplatin	epirubicin, fluorouracil, oxaliplatin
-NR3C2	1	1	enalapril	enalapril
-NTRK2	1	1	clozapine	clozapine
-OR52J3	1	1	lithium	lithium
-ORAI1	1	1	erythropoietin	erythropoietin
-ORMDL3	1	1	fluticasone propionate	fluticasone propionate
-OXT	1	1	clozapine	clozapine
-PACSIN2	1	1	azathioprine	azathioprine
-PAPPA2	1	1	salbutamol	salbutamol
-PCK1	1	1	metformin	metformin
-PCSK9	1	1	hmg coa reductase inhibitors	hmg coa reductase inhibitors
-PDE4B	1	1	apremilast	apremilast
-PI4KA	1	1	antipsychotics	antipsychotics
-PLAGL1	1	1	olanzapine	olanzapine
-PLCE1	1	1	hydrochlorothiazide	hydrochlorothiazide
-PNPLA3	1	1	alogliptin	alogliptin
-POR	1	1	atorvastatin	atorvastatin
-PPARA	1	1	fenofibrate	fenofibrate
-PPM1A	1	1	nortriptyline	nortriptyline
-PRDM16	1	1	Selective serotonin (5HT1) agonists	Selective serotonin (5HT1) agonists
-PRKAB2	1	1	metformin	metformin
-PRKAG2	1	1	hydrochlorothiazide	hydrochlorothiazide
-PSMD14	1	1	risperidone	risperidone
-PSORS1C1	1	1	etanercept	etanercept
-PTPRC	1	1	adalimumab, etanercept, infliximab	adalimumab, etanercept, infliximab
-PTTG1	1	1	etanercept	etanercept
-PVT1	1	1	glatiramer acetate	glatiramer acetate
-RAC2	1	1	idarubicin	idarubicin
-RALBP1	1	1	bevacizumab, fluorouracil, irinotecan, leucovorin	bevacizumab, fluorouracil, irinotecan, leucovorin
-RAPGEF5	1	1	antidepressants	antidepressants
-REV1	1	1	cisplatin	cisplatin
-RGS4	1	1	risperidone	risperidone
-RGS5	1	1	bevacizumab, fluorouracil, irinotecan, leucovorin	bevacizumab, fluorouracil, irinotecan, leucovorin
-RHOA	1	1	pravastatin, simvastatin	pravastatin, simvastatin
-RORA	1	1	interferon beta-1a	interferon beta-1a
-RRM2B	1	1	cladribine, cytarabine	cladribine, cytarabine
-SCARB1	1	1	atorvastatin	atorvastatin
-SCN1A	1	1	antiepileptics	antiepileptics
-SELE	1	1	capecitabine, fluorouracil, leucovorin, oxaliplatin	capecitabine, fluorouracil, leucovorin, oxaliplatin
-SERPINE1	1	1	citalopram, fluoxetine	citalopram, fluoxetine
-SH2B3	1	1	candesartan	candesartan
-SH2D5	1	1	gemcitabine	gemcitabine
-SHMT1	1	1	bevacizumab, fluorouracil, irinotecan, leucovorin	bevacizumab, fluorouracil, irinotecan, leucovorin
-SIK3	1	1	hmg coa reductase inhibitors	hmg coa reductase inhibitors
-SKOR2	1	1	perphenazine	perphenazine
-SLC12A3	1	1	bumetanide, furosemide, torasemide	bumetanide, furosemide, torasemide
-SLC22A2	1	1	metformin	metformin
-SLC22A3	1	1	metformin	metformin
-SLC24A4	1	1	salbutamol	salbutamol
-SLC29A1	1	1	tipiracil hydrochloride, trifluridine	tipiracil hydrochloride, trifluridine
-SLC2A2	1	1	metformin	metformin
-SLC39A14	1	1	nortriptyline	nortriptyline
-SLC6A3	1	1	methylphenidate	methylphenidate
-SLC7A5	1	1	gabapentin, pregabalin	gabapentin, pregabalin
-SLC9A9	1	1	fentanyl, remifentanil	fentanyl, remifentanil
-SLCO2B1	1	1	rosuvastatin	rosuvastatin
-SORT1	1	1	hmg coa reductase inhibitors	hmg coa reductase inhibitors
-SPINK5	1	1	glyburide	glyburide
-SPOPL	1	1	olanzapine	olanzapine
-SPTA1	1	1	benazepril	benazepril
-SRD5A2	1	1	abiraterone	abiraterone
-SRP19	1	1	citalopram, fluoxetine, paroxetine, sertraline	citalopram, fluoxetine, paroxetine, sertraline
-SRR	1	1	metformin	metformin
-STAT3	1	1	interferons	interferons
-STAT6	1	1	esomeprazole	esomeprazole
-STIM1	1	1	erythropoietin	erythropoietin
-STN1	1	1	atenolol	atenolol
-SULT1C3	1	1	candesartan	candesartan
-SV2C	1	1	olanzapine	olanzapine
-TAAR6	1	1	corticosteroids	corticosteroids
-TANC2	1	1	Calcium channel blockers	Calcium channel blockers
-TBX21	1	1	Tumor necrosis factor alpha (TNF-alpha) inhibitors	Tumor necrosis factor alpha (TNF-alpha) inhibitors
-TDP1	1	1	irinotecan	irinotecan
-TENT4A	1	1	gemcitabine	gemcitabine
-TGFBR3	1	1	antidepressants	antidepressants
-TIRAP	1	1	ustekinumab	ustekinumab
-TLR3	1	1	Measles vaccines	Measles vaccines
-TMEFF2	1	1	risperidone	risperidone
-TOMM40	1	1	hmg coa reductase inhibitors	hmg coa reductase inhibitors
-TPMT	1	1	mercaptopurine	mercaptopurine
-TRAF1	1	1	Tumor necrosis factor alpha (TNF-alpha) inhibitors	Tumor necrosis factor alpha (TNF-alpha) inhibitors
-TSPAN16	1	1	apremilast	apremilast
-TTC6	1	1	hydrochlorothiazide	hydrochlorothiazide
-TUT7	1	1	peginterferon alfa-2b, ribavirin	peginterferon alfa-2b, ribavirin
-UBE2I	1	1	cisplatin, irinotecan	cisplatin, irinotecan
-UGT2B7	1	1	cannabinoids	cannabinoids
-ULK3	1	1	imatinib	imatinib
-UMOD	1	1	cyclosporine	cyclosporine
-USP24	1	1	rosuvastatin	rosuvastatin
-VASP	1	1	hydrochlorothiazide	hydrochlorothiazide
-XBP1	1	1	Platinum compounds	Platinum compounds
-XPA	1	1	Platinum compounds	Platinum compounds
-XRCC4	1	1	fluorouracil, Platinum compounds, radiotherapy	fluorouracil, Platinum compounds, radiotherapy
-ZNF432	1	1	budesonide, corticosteroids, fluticasone / salmeterol, fluticasone propionate	budesonide, corticosteroids, fluticasone / salmeterol, fluticasone propionate
-ZNF697	1	1	interferon beta-1a, interferon beta-1b	interferon beta-1a, interferon beta-1b
-ZNF804A	1	1	antipsychotics	antipsychotics
+GENE_SYMBOL	Num_Variants	Num_Drugs	Affected_Drugs
+VEGFA	9	14	adalimumab;bevacizumab, capecitabine, fluorouracil, irinotecan, leucovorin, oxaliplatin;bevacizumab, irinotecan;bevacizumab, pegaptanib, ranibizumab;bevacizumab, ranibizumab;capecitabine, oxaliplatin;carboplatin, taxanes;carfilzomib, dexamethasone, lenalidomide;cetuximab;cisplatin, fluorouracil, oxaliplatin;docetaxel;pazopanib;ranibizumab;sildenafil
+COMT	8	19	bupropion;butorphanol;clozapine;entacapone;fluvoxamine;methadone;methylphenidate;modafinil;morphine;morphine, remifentanil;nicotine;opioids;oxycodone;paroxetine;quetiapine;raloxifene;remifentanil;risperidone;venlafaxine
+CYP3A4	8	17	alprazolam;amlodipine;apremilast;atorvastatin;buprenorphine;carbamazepine, lamotrigine, phenytoin, primidone, valproic acid;cyclophosphamide;cyclosporine;dexamethasone;diazepam;fentanyl;fluvastatin;imatinib;lumefantrine;perampanel;simvastatin;sufentanil
+DRD2	8	14	amisulpride;antipsychotics;aripiprazole;aripiprazole, risperidone;bupropion;chlorpromazine;clozapine;haloperidol, olanzapine, perphenazine, quetiapine, risperidone;lithium, olanzapine;nicotine;olanzapine;prochlorperazine;rasagiline;risperidone
+IFNL3	8	12	"""interferon alfa-2a, recombinant"", ""interferon alfa-2b, recombinant"", ""ribavirin"";daclatasvir, sofosbuvir;interferon alfa-n1, peginterferon alfa-2b, ribavirin;interferons, ribavirin;peginterferon alfa-2a, peginterferon alfa-2b;peginterferon alfa-2a, peginterferon alfa-2b, ribavirin;peginterferon alfa-2a, peginterferon alfa-2b, ribavirin, simeprevir;peginterferon alfa-2a, peginterferon alfa-2b, ribavirin, telaprevir;peginterferon alfa-2a, ribavirin;peginterferon alfa-2b;peginterferon alfa-2b, ribavirin;peginterferon alfa-2b, ribavirin, telaprevir"
+RRM1	8	4	carboplatin, gemcitabine;cisplatin, gemcitabine;cladribine, cytarabine;gemcitabine
+GALNT14	7	3	cisplatin, fluorouracil;cisplatin, fluorouracil, mitoxantrone;sorafenib
+BDNF	6	13	amitriptyline, clomipramine, duloxetine, imipramine, milnacipran, venlafaxine;antidepressants;antipsychotics;citalopram;citalopram, escitalopram, fluoxetine, fluvoxamine, paroxetine, sertraline;citalopram, escitalopram, fluoxetine, sertraline;empagliflozin;escitalopram, fluoxetine, paroxetine, sertraline;fluoxetine;methadone;methylphenidate;olanzapine;paroxetine
+SLCO1B1	6	13	atorvastatin;atorvastatin, hmg coa reductase inhibitors, pravastatin, simvastatin;capecitabine, fluorouracil, irinotecan, leucovorin;conjugated estrogens;estrone sulfate;fluvastatin;hmg coa reductase inhibitors;methotrexate;pravastatin;rocuronium;rosiglitazone;rosuvastatin;simvastatin
+ABCG2	6	9	Opioid anesthetics, Other general anesthetics, volatile anesthetics;allopurinol;antineoplastic agents;hmg coa reductase inhibitors;iguratimod;imatinib;methotrexate;rosuvastatin;sulfasalazine
+CRHR2	6	3	citalopram;salbutamol;salbutamol, selective beta-2-adrenoreceptor agonists
+ABCC1	6	2	lamivudine, lopinavir, ritonavir, zidovudine;methotrexate
+VDR	5	4	adalimumab, certolizumab pegol, etanercept, golimumab, infliximab;amoxicillin, clarithromycin, omeprazole;deferasirox;selective beta-2-adrenoreceptor agonists
+CASP7	5	3	docetaxel, gemcitabine, paclitaxel, Platinum compounds, vinorelbine;gemcitabine, Platinum compounds;paclitaxel, Platinum compounds
+DRD1	5	3	clozapine;fentanyl;methylphenidate
+CMPK1	5	2	cisplatin, gemcitabine;gemcitabine
+ABCB1	4	18	antidepressants;antipsychotics;carbamazepine;clopidogrel;clozapine;fentanyl;fluvastatin;glucocorticoids;imatinib;methotrexate;modafinil;propofol, remifentanil;remifentanil, sevoflurane;risperidone;rocuronium;simvastatin;tacrolimus;valproic acid
+ADRB2	4	17	Beta Blocking Agents;atenolol;atenolol, enalapril;atenolol, metoprolol;benazepril;carvedilol;corticosteroids, selective beta-2-adrenoreceptor agonists;dexmedetomidine;enalapril;mepolizumab;methacholine;propranolol;ramipril;salbutamol;salmeterol;terbutaline;tiotropium
+HTR2A	4	10	antidepressants;antipsychotics;clozapine;fluoxetine;fluvoxamine;olanzapine;paroxetine;risperidone;ustekinumab;venlafaxine
+TNF	4	10	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab;adalimumab, certolizumab pegol, golimumab, infliximab;adalimumab, etanercept, infliximab;adalimumab, etanercept, infliximab, Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, infliximab;aspirin, diclofenac, ibuprofen, indomethacin, ketorolac, naproxen;etanercept;etanercept, infliximab, Tumor necrosis factor alpha (TNF-alpha) inhibitors;infliximab
+DRD3	4	9	antipsychotics;clozapine;duloxetine;methylphenidate;olanzapine;paroxetine;pramipexole;risperidone;sertraline
+AGT	4	7	atenolol;atenolol, irbesartan;benazepril;benazepril, imidapril;irbesartan;quinapril;valsartan
+KCNQ1	4	6	exenatide;gliclazide;gliclazide, glimepiride, glipizide, glyburide;repaglinide;sitagliptin;sitagliptin, vildagliptin
+IL1B	4	5	Tumor necrosis factor alpha (TNF-alpha) inhibitors;Tumor necrosis factor alpha (TNF-alpha) inhibitors, ustekinumab;infliximab;lansoprazole, omeprazole, rabeprazole;opioids
+NEDD4L	4	4	"""Beta blocking agents, selective"", ""diuretics"";Aldosterone antagonists, amiloride;citalopram;hydrochlorothiazide"
+SLC6A2	4	3	atomoxetine;methylphenidate;venlafaxine
+TLR4	4	3	Pertussis vaccines;Tumor necrosis factor alpha (TNF-alpha) inhibitors;prednisolone
+AREG	4	2	capecitabine, radiotherapy;cetuximab, panitumumab
+IL4R	4	2	Hepatitis vaccines;pitrakinra
+IL6R	4	2	sarilumab;tocilizumab
+CHST3	4	1	docetaxel, thalidomide
+PPARD	4	1	docetaxel, thalidomide
+ABCC2	3	9	CHOP, rituximab;antiepileptics;atorvastatin;atorvastatin, simvastatin;cisplatin, doxorubicin, methotrexate;clopidogrel;lacosamide;simvastatin;tamoxifen
+AGTR1	3	8	angiotensin II;benazepril;candesartan;captopril;irbesartan;losartan;nitrendipine;perindopril
+APOE	3	8	Selective serotonin reuptake inhibitors;atorvastatin;atorvastatin, pravastatin, simvastatin;donepezil, galantamine, rivastigmine;fenofibrate;fluvastatin;hmg coa reductase inhibitors;rosuvastatin
+CYP2C19	3	8	aspirin, clopidogrel;citalopram;clopidogrel;clopidogrel, prasugrel, ticagrelor;cyclophosphamide;cyclophosphamide, doxorubicin;diazepam;phenazepam
+HTR1A	3	6	amisulpride, antipsychotics, olanzapine, quetiapine, risperidone;clozapine;fluoxetine;fluvoxamine, milnacipran, paroxetine;lurasidone;milnacipran
+TCF7L2	3	6	exenatide;glipizide;linagliptin;metformin;repaglinide;sulfonamides, urea derivatives
+CETP	3	5	atorvastatin;hmg coa reductase inhibitors;lovastatin;rosuvastatin;simvastatin
+IL6	3	5	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, etanercept, infliximab;fenofibrate;peginterferon alfa-2a;tacrolimus
+DPYD	3	4	capecitabine;capecitabine, fluorouracil, tegafur / gimeracil / oteracil;cisplatin, fluorouracil;fluorouracil
+VKORC1	3	4	acenocoumarol;acenocoumarol, warfarin;phenprocoumon;warfarin
+KDR	3	3	carfilzomib, dexamethasone, lenalidomide;clopidogrel;ranibizumab
+NR1I2	3	3	corticosteroids;efavirenz, nevirapine;pazopanib
+PEAR1	3	3	aspirin, clopidogrel, prasugrel;aspirin, prasugrel;ticagrelor
+TGFB1	3	3	etanercept;glatiramer acetate;rituximab
+TNFAIP3	3	3	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab;tildrakizumab
+TPH2	3	3	antidepressants;fluoxetine;mirtazapine, venlafaxine
+TRPV1	3	3	acetaminophen;botulinum toxin type a;cannabinoids
+AKT1	3	2	carboplatin, cisplatin;risperidone
+APOB	3	2	fenofibrate;irbesartan
+CCL2	3	2	antipsychotics;risperidone
+CDKAL1	3	2	Dipeptidyl peptidase 4 (DPP-4) inhibitors;Tumor necrosis factor alpha (TNF-alpha) inhibitors
+GRK4	3	2	atenolol;metoprolol
+GRM3	3	2	antipsychotics;risperidone
+LDLR	3	2	lovastatin;peginterferon alfa-2a, peginterferon alfa-2b, ribavirin
+TLR2	3	2	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, infliximab
+UGT1A9	3	2	oxcarbazepine;simvastatin
+BCL11A	3	1	hydroxyurea
+HTR3A	3	1	clozapine
+MECP2	3	1	cisplatin, fluorouracil, mitoxantrone
+P2RY12	3	1	clopidogrel
+RAMP1	3	1	erenumab
+IFNL3, IFNL4	2	15	"""interferon alfa-2a, recombinant"", ""interferon alfa-2b, recombinant"", ""ribavirin"";atorvastatin;boceprevir, peginterferon alfa-2a, peginterferon alfa-2b, ribavirin, telaprevir;deleobuvir, faldaprevir;direct acting antivirals, elbasvir / grazoprevir, ledipasvir / sofosbuvir;highly active antiretroviral therapy (haart);interferon alfa-n1, peginterferon alfa-2b, ribavirin;interferons, ribavirin;ledipasvir, sofosbuvir;peginterferon alfa-2a, peginterferon alfa-2b;peginterferon alfa-2a, peginterferon alfa-2b, ribavirin;peginterferon alfa-2a, peginterferon alfa-2b, ribavirin, telaprevir;peginterferon alfa-2a, ribavirin;peginterferon alfa-2b, ribavirin;peginterferon alfa-2b, ribavirin, telaprevir"
+MTHFR	2	11	Vitamin B-complex, Incl. Combinations;antipsychotics, chlorpromazine, clozapine, haloperidol, olanzapine, quetiapine, risperidone;benazepril;bevacizumab, capecitabine, cisplatin, docetaxel, epirubicin, oxaliplatin, trastuzumab;capecitabine, fluorouracil, leucovorin, oxaliplatin;disulfiram;fluorouracil;fluorouracil, leucovorin, oxaliplatin;methotrexate;oxaliplatin;vitamin b12 and folic acid
+OPRM1	2	11	Opioid anesthetics, Other general anesthetics, volatile anesthetics;acetaminophen, tramadol;ethanol;fentanyl;methadone;morphine;naltrexone;nicotine;opioids;oxycodone;tramadol
+GNB3	2	9	antidepressants;atenolol;bumetanide, furosemide, torasemide;clonidine;hydralazine / isosorbide dinitrate;sibutramine;sildenafil;sumatriptan;telmisartan
+CYP3A5	2	7	atorvastatin;atorvastatin, lovastatin, simvastatin;clopidogrel;docetaxel, paclitaxel;imatinib;rosuvastatin;tacrolimus
+ERCC1	2	6	Platinum compounds;bevacizumab, capecitabine, cisplatin, docetaxel, epirubicin, oxaliplatin, trastuzumab;capecitabine, radiotherapy;cisplatin;cisplatin, gemcitabine;fluorouracil, leucovorin, oxaliplatin
+XRCC1	2	6	Platinum compounds;carboplatin, cisplatin, fluorouracil;cisplatin, radiotherapy;fluorouracil;fluorouracil, leucovorin, oxaliplatin;platinum
+CYP2C9	2	5	ibuprofen;irbesartan;ketoprofen;sitagliptin;sulfonamides, urea derivatives
+ADRA2A	2	4	Selective serotonin reuptake inhibitors;atenolol;methylphenidate;milnacipran
+APOA5	2	4	atorvastatin;fenofibrate;rosuvastatin;simvastatin
+CACNA1C	2	4	Calcium channel blockers;amlodipine, felodipine;lacidipine, nifedipine, nitrendipine;nimodipine
+CFH	2	4	Photodynamic therapy;bevacizumab;bevacizumab, ranibizumab;ranibizumab
+IL12B	2	4	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, infliximab;etanercept;ustekinumab
+SLC19A1	2	4	capecitabine, fluorouracil, irinotecan, leucovorin;carboplatin, cisplatin, fluorouracil;folic acid, hydroxychloroquine, methotrexate, sulfasalazine;methotrexate
+TNFRSF1B	2	4	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, etanercept, infliximab, ustekinumab;etanercept;infliximab
+CDA	2	3	capecitabine;cisplatin, gemcitabine;gemcitabine
+CHRNA5	2	3	bupropion, nicotine, varenicline;nicotine;varenicline
+ABCA1	2	2	atorvastatin, rosuvastatin, simvastatin;fenofibrate
+ABCC4	2	2	imatinib;latanoprost
+ACE	2	2	pravastatin;ramipril
+ADCY9	2	2	dalcetrapib;salbutamol
+ATIC	2	2	folic acid, methotrexate;methotrexate
+CES1	2	2	clopidogrel;sofosbuvir
+ERCC2	2	2	Platinum compounds;bevacizumab, capecitabine, cisplatin, docetaxel, epirubicin, oxaliplatin, trastuzumab
+ESR1	2	2	leflunomide;raloxifene
+FTO	2	2	"""interferon alfa-2a, recombinant"", ""interferon alfa-2b, recombinant"", ""ribavirin"";PD-1/PDL-1 (Programmed cell death protein 1/death ligand 1) inhibitors"
+GABRA1	2	2	carbamazepine;valproic acid
+GNAS	2	2	cisplatin, fluorouracil;dobutamine
+GSK3B	2	2	citalopram, fluoxetine;lithium
+HMGCR	2	2	atorvastatin;hmg coa reductase inhibitors
+IFNG	2	2	Tumor necrosis factor alpha (TNF-alpha) inhibitors;penicillin g
+IL13	2	2	Hepatitis vaccines;ustekinumab
+IL18	2	2	"""interferon alfa-2a, recombinant"", ""interferon alfa-2b, recombinant"", ""interferons"", ""peginterferon alfa-2a"", ""peginterferon alfa-2b"", ""ribavirin"";Tumor necrosis factor alpha (TNF-alpha) inhibitors"
+LPL	2	2	fenofibrate;pravastatin
+OPRD1	2	2	buprenorphine;oxycodone
+PDE4D	2	2	apremilast;quetiapine
+PRKCE	2	2	donepezil, galantamine, rivastigmine;perphenazine
+PTPRD	2	2	pioglitazone;trandolapril, verapamil
+SLC22A1	2	2	imatinib;metformin
+SNAP25	2	2	amisulpride;methylphenidate
+TNFRSF1A	2	2	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, etanercept, infliximab
+UGT1A1	2	2	cisplatin, irinotecan;deferasirox
+ADA	2	1	methotrexate
+ADH1A	2	1	cytarabine, fludarabine, gemtuzumab ozogamicin, idarubicin
+ATP7B	2	1	Platinum compounds
+BDNF, BDNF-AS	2	1	methadone
+CARD16	2	1	peginterferon alfa-2b, ribavirin
+CDK4	2	1	somatropin recombinant
+CFTR	2	1	ivacaftor
+CHRM2	2	1	fluticasone / salmeterol
+CRHR1	2	1	fluticasone propionate
+DCK	2	1	cytarabine, idarubicin
+FKBP5	2	1	antidepressants
+GDNF	2	1	paroxetine
+GGH	2	1	methotrexate
+GRIA3	2	1	Selective serotonin reuptake inhibitors, venlafaxine
+GRK5	2	1	Beta Blocking Agents
+HTR2C	2	1	risperidone
+KIF6	2	1	atorvastatin, pravastatin
+MAP3K5	2	1	hydroxyurea
+NPPA-AS1	2	1	bumetanide, furosemide, torasemide
+NR1D1, THRA	2	1	lithium
+NR1I3	2	1	efavirenz, nevirapine
+NRXN1	2	1	antipsychotics
+PRKCA	2	1	"""diuretics"", ""hydrochlorothiazide"", ""Thiazides, plain"""
+PTGFR	2	1	latanoprost
+REEP5	2	1	citalopram, fluoxetine, paroxetine, sertraline
+RRM2	2	1	cladribine, cytarabine
+SLC16A7	2	1	methotrexate
+SLC22A5	2	1	imatinib
+SLC47A2	2	1	metformin
+SLCO1B3	2	1	imatinib
+UGT1A6	2	1	deferiprone
+ADRB1	1	8	Beta Blocking Agents;Beta Blocking Agents, flecainide;atenolol;atenolol, carvedilol, diltiazem, metoprolol, verapamil;bucindolol;carvedilol;dobutamine;metoprolol
+FCGR2A	1	8	Tumor necrosis factor alpha (TNF-alpha) inhibitors;abatacept, rituximab, tocilizumab, Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab;adalimumab, etanercept, infliximab;cetuximab;cyclophosphamide, doxorubicin, paclitaxel, trastuzumab;infliximab;rituximab
+GSTP1	1	7	anthracyclines and related substances;cisplatin, doxorubicin, methotrexate;cyclophosphamide, epirubicin;cyclophosphamide, epirubicin, fluorouracil;dimethyl fumarate;fluorouracil, oxaliplatin;nilotinib
+BCHE	1	3	donepezil;memantine, rivastigmine;rivastigmine
+CXCL8	1	3	bevacizumab;bevacizumab, cyclophosphamide;ranibizumab
+CYP11B2	1	3	benazepril, imidapril;candesartan;hydralazine / isosorbide dinitrate
+CYP2B6	1	3	bupropion;cyclophosphamide;efavirenz, lamivudine, tenofovir
+DBH	1	3	disulfiram;levodopa;naltrexone
+IL17F	1	3	adalimumab;infliximab;ustekinumab
+KCNJ11	1	3	gliclazide;repaglinide;sulfonamides, urea derivatives
+LIPC	1	3	fluvastatin;pravastatin;simvastatin
+MMP9	1	3	Antihypertensives, hydralazine, Methyldopa, nifedipine;Methyldopa;ulinastatin
+MTR	1	3	benazepril;folic acid, hydroxychloroquine, methotrexate, sulfasalazine;methotrexate
+SLCO1C1	1	3	Tumor necrosis factor alpha (TNF-alpha) inhibitors;etanercept;infliximab
+TP53	1	3	capecitabine, paclitaxel;cisplatin, paclitaxel;oxaliplatin
+ADD1	1	2	bumetanide, furosemide, torasemide;hydrochlorothiazide
+ADRA1A	1	2	disulfiram;nifedipine
+ALDH2	1	2	naltrexone;nitroglycerin
+AMPD1	1	2	folic acid, methotrexate;methotrexate
+ANKK1	1	2	aripiprazole;risperidone
+ANKK1, DRD2	1	2	bupropion, naltrexone;prochlorperazine
+BDNF-AS	1	2	antidepressants;antipsychotics
+CYP19A1	1	2	anastrozole, letrozole, tamoxifen;tamoxifen
+CYP1A2	1	2	clozapine;nevirapine
+CYP1B1	1	2	codeine, tramadol;cyclophosphamide, epirubicin, fluorouracil
+CYP27B1	1	2	deferasirox;peginterferon alfa-2b, ribavirin
+ERICH3	1	2	antidepressants;antidepressants, citalopram, escitalopram
+GLCCI1	1	2	corticosteroids;glucocorticoids
+GPR83	1	2	candesartan;hydrochlorothiazide
+HDAC1	1	2	Corticosteroids For Systemic Use;corticosteroids
+LPA	1	2	hmg coa reductase inhibitors;rosuvastatin
+NOS3	1	2	enalapril;sildenafil
+PON1	1	2	epirubicin, fluorouracil, oxaliplatin;simvastatin
+PPARG	1	2	pioglitazone;rosiglitazone
+SCAP	1	2	rosuvastatin;simvastatin
+SCN2A	1	2	carbamazepine, phenobarbital, phenytoin, valproic acid;valproic acid
+SLC22A4	1	2	imatinib;ustekinumab
+SLC30A8	1	2	insulin recombinant, zinc acetate;repaglinide
+STAT4	1	2	etanercept;ustekinumab
+TLR9	1	2	Tumor necrosis factor alpha (TNF-alpha) inhibitors;adalimumab, etanercept, infliximab, Tumor necrosis factor alpha (TNF-alpha) inhibitors
+XRCC3	1	2	Platinum compounds;cisplatin, docetaxel, irinotecan
+ABCC8, KCNJ11	1	1	"""metformin"", ""sulfonamides, urea derivatives"""
+ACE2	1	1	captopril
+ACHE	1	1	rivastigmine
+ADGRL3	1	1	methylphenidate
+ADIPOQ	1	1	pioglitazone
+ADM	1	1	paroxetine
+ADORA1	1	1	caffeine
+ADORA2A	1	1	methotrexate
+AGAP1	1	1	risperidone
+ALDH1A1	1	1	cyclophosphamide, doxorubicin
+ALDH5A1	1	1	methadone
+ANKS1B	1	1	amisulpride
+AOC1	1	1	cannabidiol
+AOX1	1	1	azathioprine
+APOA1	1	1	fenofibrate
+APOC1	1	1	hmg coa reductase inhibitors
+ARG1	1	1	selective beta-2-adrenoreceptor agonists
+ARG2	1	1	Methyldopa
+ARMS2	1	1	bevacizumab
+ASIC2	1	1	lithium
+ASS1	1	1	hydroxyurea
+ATG16L1	1	1	adalimumab
+ATM	1	1	metformin
+ATP1A2	1	1	olanzapine
+BCL2L11	1	1	imatinib
+BDKRB1	1	1	perindopril
+BDKRB2	1	1	enalapril
+BEST3	1	1	hydrochlorothiazide
+BMP5	1	1	escitalopram
+C11orf65	1	1	metformin
+C1orf167, CLCN6, MTHFR	1	1	methotrexate
+C5orf56	1	1	hydrochlorothiazide
+C9orf72	1	1	ustekinumab
+CA10	1	1	fluticasone propionate, montelukast
+CACNA1D	1	1	amlodipine
+CACNA1H	1	1	lamotrigine
+CACNA2D3	1	1	antipsychotics
+CACNB2	1	1	antipsychotics
+CACNB4	1	1	antipsychotics
+CACNG2	1	1	lithium
+CALCA	1	1	botulinum toxin type a
+CALCRL	1	1	erenumab
+CAPN10	1	1	metformin
+CASP1	1	1	peginterferon alfa-2b, ribavirin
+CBR3	1	1	CHOP, rituximab
+CCL11	1	1	morphine
+CD40	1	1	prednisolone
+CD58	1	1	interferon beta-1a, interferon beta-1b
+CD84	1	1	etanercept
+CDC5L	1	1	gemcitabine
+CDH13	1	1	amphetamine
+CDH4	1	1	ziprasidone
+CDKN2B, CDKN2B-AS1	1	1	apremilast
+CELSR2	1	1	hmg coa reductase inhibitors
+CERS6	1	1	adalimumab, certolizumab pegol, etanercept, infliximab, Tumor necrosis factor alpha (TNF-alpha) inhibitors
+CFAP44	1	1	hmg coa reductase inhibitors
+CHDH, IL17RB	1	1	acamprosate
+CHRNA3, CHRNA5	1	1	nicotine
+CHRNA4	1	1	varenicline
+CHRNA7	1	1	donepezil, galantamine, rivastigmine
+CLCN6, MTHFR	1	1	methotrexate
+CLEC16A	1	1	glatiramer acetate
+CNPY4	1	1	Tumor necrosis factor alpha (TNF-alpha) inhibitors
+CNR1	1	1	liraglutide
+CNTF, ZFP91-CNTF	1	1	iloperidone
+CNTN4	1	1	ziprasidone
+COL1A1	1	1	etidronic acid
+COQ8B, ITPKC	1	1	Immunoglobulins
+CREB1	1	1	antidepressants
+CRP	1	1	fenofibrate
+CSK	1	1	hydrochlorothiazide
+CSMD1	1	1	olanzapine
+CTNNA2	1	1	Tumor necrosis factor alpha (TNF-alpha) inhibitors
+CTNNA3	1	1	antidepressants
+CTRB1, CTRB2	1	1	Dipeptidyl peptidase 4 (DPP-4) inhibitors
+CXCL10	1	1	peginterferon alfa-2a, peginterferon alfa-2b
+CXCL5	1	1	hmg coa reductase inhibitors
+CYP1A1	1	1	antiepileptics
+CYP2C8	1	1	corticosteroids, montelukast
+CYP2D6	1	1	metoprolol
+CYP3A4, TMEM130	1	1	apremilast
+CYP4F2	1	1	aspirin, clopidogrel
+CYP7A1	1	1	atorvastatin
+DHFR	1	1	methotrexate
+DOCK6	1	1	apremilast
+DOT1L	1	1	hydrochlorothiazide
+EGFR	1	1	fluorouracil
+EIF3G, P2RY11, PPAN-P2RY11	1	1	apremilast
+ENOSF1	1	1	fluorouracil
+ERBB3	1	1	carboplatin, docetaxel, trastuzumab
+ERCC3	1	1	Platinum compounds
+ERCC4	1	1	Platinum compounds
+ERCC5	1	1	platinum
+ESR2	1	1	gemcitabine
+EXO1	1	1	pemetrexed
+F13A1	1	1	Photodynamic therapy
+F3	1	1	simvastatin
+FASTKD3, MTRR	1	1	methotrexate
+FCAR	1	1	pravastatin
+FCER1A	1	1	desloratadine, mizolastine
+FDPS	1	1	Bisphosphonates
+FHIT	1	1	interferon beta-1a, interferon beta-1b
+FMO2	1	1	glyburide
+FMO5	1	1	metformin
+FOLR3	1	1	pemetrexed
+FPGS	1	1	methotrexate
+GABRQ	1	1	venlafaxine
+GADL1	1	1	lithium
+GAL	1	1	antidepressants, benzodiazepine derivatives, mirtazapine, Selective serotonin reuptake inhibitors
+GALNT18	1	1	cisplatin
+GATA3	1	1	prednisolone
+GATA4	1	1	Drugs used in alcohol dependence
+GBP6	1	1	etanercept
+GC	1	1	deferasirox
+GLDC	1	1	citalopram, escitalopram
+GP1BA	1	1	aspirin
+GRIK1	1	1	topiramate
+GRIK4	1	1	antidepressants
+GRIN2B	1	1	acamprosate
+HIF1A	1	1	cisplatin, gemcitabine, pemetrexed
+HLA-B	1	1	etanercept
+HLA-C	1	1	Tumor necrosis factor alpha (TNF-alpha) inhibitors
+HLA-DPA1	1	1	peginterferon alfa-2b
+HLA-G	1	1	capecitabine, fluorouracil
+HMGB1	1	1	Platinum compounds
+HRH4	1	1	risperidone
+HSPA5	1	1	Platinum compounds
+IFNAR1	1	1	glatiramer acetate
+IGF2R	1	1	salbutamol
+IL10	1	1	etanercept
+IL11	1	1	escitalopram
+IL17A	1	1	Tumor necrosis factor alpha (TNF-alpha) inhibitors
+IL1RN	1	1	Tumor necrosis factor alpha (TNF-alpha) inhibitors
+IL2	1	1	rituximab
+IL21R	1	1	peginterferon alfa-2b, ribavirin
+ILF3	1	1	apremilast
+ITIH3	1	1	clozapine
+KCNMA1	1	1	quetiapine
+KCNMB1	1	1	tocilizumab
+KCNMB2	1	1	ritodrine
+KMT2E	1	1	duloxetine
+KRAS	1	1	capecitabine, cetuximab, oxaliplatin
+LEPR	1	1	simvastatin
+LEPR, LEPROT	1	1	apremilast
+LGR5	1	1	fluorouracil
+LPIN1	1	1	rosiglitazone
+LRP1B	1	1	risperidone
+LYN	1	1	ziprasidone
+MALAT1	1	1	Platinum compounds
+MAML3	1	1	perphenazine
+MAPK1	1	1	antidepressants
+MCPH1	1	1	perphenazine
+MDM4	1	1	docetaxel, epirubicin
+MGAT5	1	1	ursodeoxycholic acid
+MICB	1	1	peginterferon alfa-2a, peginterferon alfa-2b, ribavirin
+MLLT3	1	1	montelukast
+MMP2	1	1	ulinastatin
+MOBP	1	1	creatine
+MTHFD1	1	1	cisplatin, doxorubicin, methotrexate
+MTRR	1	1	methotrexate
+MTTP	1	1	atorvastatin
+MYLIP	1	1	atorvastatin
+NALCN	1	1	ziprasidone
+NAT2	1	1	iguratimod
+NCF4	1	1	idarubicin
+NCOA3	1	1	salbutamol
+NFKB1	1	1	flupenthixol
+NLRP3	1	1	etanercept, infliximab
+NPAS3	1	1	risperidone
+NPC1L1	1	1	hmg coa reductase inhibitors
+NQO1	1	1	epirubicin, fluorouracil, oxaliplatin
+NR3C2	1	1	enalapril
+NTRK2	1	1	clozapine
+OR52J3	1	1	lithium
+ORAI1	1	1	erythropoietin
+ORMDL3	1	1	fluticasone propionate
+OXT	1	1	clozapine
+PACSIN2	1	1	azathioprine
+PAPPA2	1	1	salbutamol
+PCK1	1	1	metformin
+PCSK9	1	1	hmg coa reductase inhibitors
+PDE4B	1	1	apremilast
+PI4KA	1	1	antipsychotics
+PLAGL1	1	1	olanzapine
+PLCE1	1	1	hydrochlorothiazide
+PNPLA3	1	1	alogliptin
+POR	1	1	atorvastatin
+PPARA	1	1	fenofibrate
+PPM1A	1	1	nortriptyline
+PRDM16	1	1	Selective serotonin (5HT1) agonists
+PRKAB2	1	1	metformin
+PRKAG2	1	1	hydrochlorothiazide
+PSMD14	1	1	risperidone
+PSORS1C1	1	1	etanercept
+PTPRC	1	1	adalimumab, etanercept, infliximab
+PTTG1	1	1	etanercept
+PVT1	1	1	glatiramer acetate
+RAC2	1	1	idarubicin
+RALBP1	1	1	bevacizumab, fluorouracil, irinotecan, leucovorin
+RAPGEF5	1	1	antidepressants
+REV1	1	1	cisplatin
+RGS4	1	1	risperidone
+RGS5	1	1	bevacizumab, fluorouracil, irinotecan, leucovorin
+RHOA	1	1	pravastatin, simvastatin
+RORA	1	1	interferon beta-1a
+RRM2B	1	1	cladribine, cytarabine
+SCARB1	1	1	atorvastatin
+SCN1A	1	1	antiepileptics
+SELE	1	1	capecitabine, fluorouracil, leucovorin, oxaliplatin
+SERPINE1	1	1	citalopram, fluoxetine
+SH2B3	1	1	candesartan
+SH2D5	1	1	gemcitabine
+SHMT1	1	1	bevacizumab, fluorouracil, irinotecan, leucovorin
+SIK3	1	1	hmg coa reductase inhibitors
+SKOR2	1	1	perphenazine
+SLC12A3	1	1	bumetanide, furosemide, torasemide
+SLC22A2	1	1	metformin
+SLC22A3	1	1	metformin
+SLC24A4	1	1	salbutamol
+SLC29A1	1	1	tipiracil hydrochloride, trifluridine
+SLC2A2	1	1	metformin
+SLC39A14	1	1	nortriptyline
+SLC6A3	1	1	methylphenidate
+SLC7A5	1	1	gabapentin, pregabalin
+SLC9A9	1	1	fentanyl, remifentanil
+SLCO2B1	1	1	rosuvastatin
+SORT1	1	1	hmg coa reductase inhibitors
+SPINK5	1	1	glyburide
+SPOPL	1	1	olanzapine
+SPTA1	1	1	benazepril
+SRD5A2	1	1	abiraterone
+SRP19	1	1	citalopram, fluoxetine, paroxetine, sertraline
+SRR	1	1	metformin
+STAT3	1	1	interferons
+STAT6	1	1	esomeprazole
+STIM1	1	1	erythropoietin
+STN1	1	1	atenolol
+SULT1C3	1	1	candesartan
+SV2C	1	1	olanzapine
+TAAR6	1	1	corticosteroids
+TANC2	1	1	Calcium channel blockers
+TBX21	1	1	Tumor necrosis factor alpha (TNF-alpha) inhibitors
+TDP1	1	1	irinotecan
+TENT4A	1	1	gemcitabine
+TGFBR3	1	1	antidepressants
+TIRAP	1	1	ustekinumab
+TLR3	1	1	Measles vaccines
+TMEFF2	1	1	risperidone
+TOMM40	1	1	hmg coa reductase inhibitors
+TPMT	1	1	mercaptopurine
+TRAF1	1	1	Tumor necrosis factor alpha (TNF-alpha) inhibitors
+TSPAN16	1	1	apremilast
+TTC6	1	1	hydrochlorothiazide
+TUT7	1	1	peginterferon alfa-2b, ribavirin
+UBE2I	1	1	cisplatin, irinotecan
+UGT2B7	1	1	cannabinoids
+ULK3	1	1	imatinib
+UMOD	1	1	cyclosporine
+USP24	1	1	rosuvastatin
+VASP	1	1	hydrochlorothiazide
+XBP1	1	1	Platinum compounds
+XPA	1	1	Platinum compounds
+XRCC4	1	1	fluorouracil, Platinum compounds, radiotherapy
+ZNF432	1	1	budesonide, corticosteroids, fluticasone / salmeterol, fluticasone propionate
+ZNF697	1	1	interferon beta-1a, interferon beta-1b
+ZNF804A	1	1	antipsychotics
