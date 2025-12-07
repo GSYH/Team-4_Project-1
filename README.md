@@ -33,8 +33,6 @@ Key columns:
 - Alleles
 
 
-**k**:  [https://github.com/GSYH/drug_response_23andme/tree/main]
-
 
 **For question 6.1 package github link:** [https://GSYH.github.io/drug_response_23andme/](https://github.com/GSYH/drug_response_23andme/tree/main)
 
